@@ -70,6 +70,7 @@ This proposal outlines the development of a scalable, fault-tolerant gateway and
 ## Deliverables
 ### Gateway:
 
+
 - Scalable architecture design.
 
 - BLE concurrency and MQTT data forwarding implementation.
