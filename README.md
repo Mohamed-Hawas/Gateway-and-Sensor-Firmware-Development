@@ -3,7 +3,7 @@
 ## Executive Summary
 This proposal outlines the development of a scalable, fault-tolerant gateway and optimized sensor firmware for nfrti X’s predictive maintenance system. The solution will enable real-time data collection, synchronization, and transmission from multiple vibration sensors, ensuring seamless integration with the platform for analytics and visualization. The project aligns with nfrti X’s mission to deliver reliable, chaos-preventing predictions through cutting-edge AIoT analytics.
 
-![](media/overview.png)
+![](media/overview%20.png)
 
 ## Objectives
 ### Gateway Development:
